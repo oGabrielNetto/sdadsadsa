@@ -1,0 +1,44 @@
+body {
+    background: url(./papeldeparede/fotocolagem.png);
+    background-color: black;
+    background-size: auto;
+}
+
+.caixa {
+    background-color: #fff;
+    width: 320px; max-width: 320px;
+    margin: auto;
+    border-radius: 2%;
+    border: 3px ;
+    justify-content: space-between;
+}
+
+ul {
+    align-items: center;
+    display: inline-flex; text
+    padding: 16px;
+    justify-self: unset;
+    list-style-type: none
+    
+}
+li {
+    padding: 20px;
+}
+a {
+    font-size: 19px;
+    font-family: sans-serif;
+    text-shadow: 15px 15px 15px #0000;
+    text-decoration: none;
+    color: #B2714F
+}
+nav a:hover {
+    color: #08748C;
+}
+hr {
+   width: 320px;
+}
+h1 {
+    text-align: center;
+    margin: auto;
+    color: white;
+}
